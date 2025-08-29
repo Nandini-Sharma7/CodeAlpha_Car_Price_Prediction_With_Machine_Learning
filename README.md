@@ -5,7 +5,7 @@
 🤖 Built a regression model to predict car prices using features like brand, mileage &amp; horsepower.  
 
 
-✨ Highlights:  
+# ✨ Highlights:  
 
 🛠 Preprocessing &amp; Feature Engineering  
 
