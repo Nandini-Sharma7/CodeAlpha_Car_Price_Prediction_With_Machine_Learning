@@ -7,7 +7,7 @@
 
 🛠 Preprocessing &amp; Feature Engineering  
 
-📊 EDA with Pandas, Matplotlib  
+📊 EDA with Pandas, Matplotlib & Seaborn
 
 🤖 Models: Linear, Tree, Random Forest  
 
